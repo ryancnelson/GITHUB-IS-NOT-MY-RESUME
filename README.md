@@ -1,7 +1,7 @@
 GITHUB-IS-NOT-MY-RESUME
 =======================
 
-Please don't judge my tech skills or coding chops by what's here.  This is literally a storage closet at best, and at worst, a dumpster.  A dumpster I don't curate to impress others.
+Please don't judge my tech skills or coding chops by what's here.  This is literally a storage closet at best, and at worst, a dumpster.  A dumpster I don't (currently) curate to impress others.
 
 Often, I'll dump text or quick-and-dirty stuff here to share with others, or so I can find it again later.
 
